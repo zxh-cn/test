@@ -1,0 +1,5 @@
+{
+  "name": "麻米错湖水预测",
+  "description": "Interactive 3D DEM visualization with real-time water level simulation, volumetric analysis, and concentration calculations.",
+  "requestFramePermissions": []
+}
